@@ -1,0 +1,21 @@
+div{
+    height: 400px;
+    width: 200px;
+    border: 5px solid black;
+    margin: 0 auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: gold;
+}
+#sum{
+    background-color: aqua;
+    font-weight:bold;
+}
+
+#sum:hover{
+    border: none;
+    background-color: gold;
+    color: gold;
+}
+
+
